@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECT_DIR="0-new_project"
+PROJECT_DIR="1-new_project"
 
 mkdir -p $PROJECT_DIR
 
