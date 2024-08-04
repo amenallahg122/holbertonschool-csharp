@@ -5,8 +5,6 @@ class Program
     static void Main()
     {
         string result = "";
-        
-
         for (int i = 0; i < 100; i++)
         {
             result += i.ToString("D2");
@@ -17,6 +15,6 @@ class Program
             }
         }
 
-        Console.WriteLine(result);
+        Console.Write(result + '\n');
     }
 }
