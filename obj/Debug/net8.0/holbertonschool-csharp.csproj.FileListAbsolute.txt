@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\bin\Debug\net8.0\holbertonschool-csharp.exe
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\bin\Debug\net8.0\holbertonschool-csharp.deps.json
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\bin\Debug\net8.0\holbertonschool-csharp.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\bin\Debug\net8.0\holbertonschool-csharp.dll
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\bin\Debug\net8.0\holbertonschool-csharp.pdb
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.sourcelink.json
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.dll
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\refint\holbertonschool-csharp.dll
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.pdb
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\holbertonschool-csharp.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Bureau\C#\holbertonschool-csharp\obj\Debug\net8.0\ref\holbertonschool-csharp.dll

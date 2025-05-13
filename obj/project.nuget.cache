@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPWB5q4SJDE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Bureau\\C#\\holbertonschool-csharp\\holbertonschool-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
